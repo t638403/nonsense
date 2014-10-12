@@ -1,0 +1,41 @@
+{
+    "name": "nonsense",
+    "description": "Tool for generating random data",
+    "version": "0.0.1",
+    "author": {
+        "name": "Erik van den Hooven",
+        "email": "e.j.vd.hooven@gmail.com"
+    },
+    "keywords": [
+        "random",
+        "data",
+        "nonsense"
+    ],
+    "engines": {
+        "node": ">= 0.10.32"
+    },
+    "bugs": {
+        "url": "https://github.com/t638403/nonsense/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "main": "./index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/t638403/nonsense.git"
+    },
+    "license": "MIT",
+    "dependencies": {
+    },
+    "homepage": "https://github.com/t638403/nonsense",
+    "maintainers": [
+        {
+            "name": "t638403",
+            "email": "e.j.vd.hooven@gmail.com"
+        }
+    ]
+}
